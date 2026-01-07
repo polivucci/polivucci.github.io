@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Institut für Strömungsmechanik</p>
     <p>TU Braunschweig</p>
-    <p>Hermann-Blenk-Str. 37, 38100, Germany</p>
+    <p>Hermann-Blenk-Str. 37, 38108, Germany</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

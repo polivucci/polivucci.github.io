@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-Download the [resume](/assets/pdf/example_pdf.pdf) pdf here.
+Download the [resume](/assets/pdf/polivucci-resume.pdf) pdf here.

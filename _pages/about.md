@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: p.olivucci@tu-braunschweig.de
 
 profile:
   align: right
@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p>Institut für Strömungsmechanik</p>
     <p>TU Braunschweig</p>
-    <p>Braunschweig, 38100 NI, Germany</p>
+    <p>Hermann-Blenk-Str. 37, 38100, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:

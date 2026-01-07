@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: p.olivucci@tu-braunschweig.de
+subtitle: <a href="mailto:p.olivucci@tu-braunschweig.de">p.olivucci@tu-braunschweig.de</a> 
 
 profile:
   align: right

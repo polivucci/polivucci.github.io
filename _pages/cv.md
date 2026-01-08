@@ -10,6 +10,6 @@ toc:
   sidebar: left
 ---
 
-![My research resume](/assets/pdf/polivucci_resume.pdf "My research resume")
+<embed src="/assets/pdf/polivucci_resume.pdf" type="application/pdf">
 
 <!-- Download the [resume](/assets/pdf/polivucci_resume.pdf) pdf here. -->

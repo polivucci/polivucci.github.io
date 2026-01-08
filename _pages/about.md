@@ -9,7 +9,7 @@ profile:
   image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="mailto:p.olivucci@tu-braunschweig.de">p.olivucci@tu-braunschweig.de</a> 
+    <p><a href="mailto:p.olivucci@tu-braunschweig.de">p.olivucci@tu-braunschweig.de</a></p>
     <p>Institut für Strömungsmechanik</p>
     <p>TU Braunschweig</p>
     <p>Hermann-Blenk-Str. 37, 38108, Germany</p>

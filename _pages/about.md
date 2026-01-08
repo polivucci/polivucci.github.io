@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="mailto:p.olivucci@tu-braunschweig.de">p.olivucci@tu-braunschweig.de</a> 
+subtitle: 
 
 profile:
   align: right
   image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <a href="mailto:p.olivucci@tu-braunschweig.de">p.olivucci@tu-braunschweig.de</a> 
     <p>Institut für Strömungsmechanik</p>
     <p>TU Braunschweig</p>
     <p>Hermann-Blenk-Str. 37, 38108, Germany</p>
@@ -28,7 +29,7 @@ latest_posts:
 ---
 
 <!-- Biography here.  -->
-Here you can download my [resume](/assets/pdf/polivucci-resume.pdf).
+Here you can find my [resume](/assets/pdf/polivucci_resume.pdf).
 <!-- Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 ##### Research interests

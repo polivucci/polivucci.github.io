@@ -10,4 +10,6 @@ toc:
   sidebar: left
 ---
 
-Download the [resume](/assets/pdf/polivucci-resume.pdf) pdf here.
+![My research resume](/assets/pdf/polivucci_resume.pdf "My research resume")
+
+<!-- Download the [resume](/assets/pdf/polivucci_resume.pdf) pdf here. -->

@@ -30,17 +30,18 @@ latest_posts:
 
 <!-- Biography here.  -->
 Here you can find my [resume](/assets/pdf/polivucci_resume.pdf).
-<!-- Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 ##### Research interests
-
-- 
--
--
+<!-- I work on fluid mechanics from the computational perspective:
+- Turbulent skin-friction reduction.
+- Generative modelling of fluid dynamics.
+- Differentiable fluid dynamics.
+- Automated discovery / experiment planning.
+- Intelligent sensing of fluid flows.-->
 
 ##### Teaching
 
-- Smart sensing in fluid dynamics, WS 2025 [[course page]](https://polivucci.github.io/smartsensingFM/).
+- Smart sensing in fluid dynamics, WS 2025 [[syllabus]](https://docs.google.com/spreadsheets/d/1w7n8XE_8ePYBIETWgKs_a2yAnHMt98E91TIsYb0aWmQ/edit?usp=sharing).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

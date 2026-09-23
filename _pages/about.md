@@ -29,19 +29,22 @@ latest_posts:
 ---
 
 <!-- Biography here.  -->
-Here you can find my [resume](/assets/pdf/polivucci_resume.pdf).
+Here you can find my:
+- Resume [pdf](/assets/pdf/polivucci_resume.pdf).
+- [Google Scholar](https://scholar.google.com/citations?user=CHecdiMAAAAJ) page.
+- GitHub: [https://github.com/polivucci](https://github.com/polivucci).
 
 ##### Research interests
-<!-- I work on fluid mechanics from the computational perspective:
+I'm happy to collaborate on any of these topics:
 - Turbulent skin-friction reduction.
-- Generative modelling of fluid dynamics.
-- Differentiable fluid dynamics.
-- Automated discovery / experiment planning.
-- Intelligent sensing of fluid flows.-->
+- Generative modelling of fluid flows across dynamical regimes.
+- Automated discovery and optimal experiment design.
+- Differentiable CFD and applications to robot/animal locomotion.
+- Compressive sensing for fluid flows.
 
 ##### Teaching
 
-- Smart sensing in fluid dynamics, WS 2025 [[syllabus]](https://docs.google.com/spreadsheets/d/1w7n8XE_8ePYBIETWgKs_a2yAnHMt98E91TIsYb0aWmQ/edit?usp=sharing).
+- Smart sensing in fluid dynamics, WS 2025/2026 [[syllabus]](https://docs.google.com/spreadsheets/d/1w7n8XE_8ePYBIETWgKs_a2yAnHMt98E91TIsYb0aWmQ/edit?usp=sharing) (MSc in Computational Sciences in Engineering).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

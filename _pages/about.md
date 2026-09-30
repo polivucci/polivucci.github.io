@@ -29,10 +29,10 @@ latest_posts:
 ---
 
 <!-- Biography here.  -->
-Here you can find my:
-- Resume [pdf](/assets/pdf/polivucci_resume.pdf).
+Welcome! Here you can get to know more about me:
 - [Google Scholar](https://scholar.google.com/citations?user=CHecdiMAAAAJ) page.
 - GitHub: [https://github.com/polivucci](https://github.com/polivucci).
+- Resume [pdf](/assets/pdf/polivucci_resume.pdf).
 
 ##### Research interests
 I'm happy to collaborate on any of these topics:
